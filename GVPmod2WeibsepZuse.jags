@@ -1,0 +1,19 @@
+model{
+  for (k in 1:Mvol){ # Mvol: number of analogue volcanoes
+    for (i in (N1[k]):(N2[k])){
+	## (N1[k]):(N2[k]) are the indices for all the data points from volcano k
+      isCensored[i] ~ dinterval( xi[i] , censLimVec[i] )
+      xi[i] ~ dweib(Z[k]*alpha,1/(Z[k]*pow(beta,alpha))) 
+    }
+  }
+    ## Priors
+    beta ~ dnorm(0,10^-4)T(0,)
+    alpha ~ dnorm(0,10^-4)T(0,)
+	
+	for (j in 1:Mvol){
+      Z[j] ~ dgamma(sh, rt)
+	}
+    sh <- 1/pow(sigmaZ,2)
+    rt <- 1/pow(sigmaZ,2)
+	sigmaZ ~ dt(0,0.04,3)T(0,)
+}
