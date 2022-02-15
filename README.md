@@ -20,7 +20,6 @@ This file contains the JAGS "model" for model M3 in equation (4) in the paper Wa
 This file reads all the data files for the empirical analogues saved in the folder "HoloceneRecords". These data files are obtained from the Smithsonian Institution's GVP catalogue.
 
 ## Fitting models M1, M2, and M3 to the empirical analogues 
-#### Run the R code in "ReadGVPdata.R" to read all the GVP data first
-
-
-## Using eruption records with minimum VEI 3
+### GVPEmpAnalog.R
+##### Make sure to save all .R and .jags files and the two data folders "HoloceneRecords" and "QuaternaryRecords" in the same main folder.
+Run the file GVPEmpAnalog.R, and the MCMC samples of the posterior distributions will be saved in .image files.
