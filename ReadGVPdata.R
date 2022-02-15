@@ -1,11 +1,11 @@
-a <- dir('DataFolder')
+a <- dir('HoloceneRecords')
 ndatset <- length(a)
 
 ###############################################
 ## For all the data available in GVP records
 for (kk in 1:ndatset)
 {
-data <- read.csv(paste("DataFolder/",a[kk],sep=""),header=T)
+data <- read.csv(paste("HoloceneRecords/",a[kk],sep=""),header=T)
 data1 <- data
 data$Start.Month[is.na(data$Start.Month)] <- 0
 data$Start.Day[is.na(data$Start.Day)] <- 0
