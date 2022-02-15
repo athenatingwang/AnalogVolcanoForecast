@@ -1,0 +1,40 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+284040,Miyakejima,18282,Confirmed Eruption,,1,,,2010,,4,,11,,Historical Observations,,2010,,7,,21,,34.094,139.526
+284040,Miyakejima,18281,Confirmed Eruption,,1,,,2009,,4,,1,,Historical Observations,,2009,,4,,1,,34.094,139.526
+284040,Miyakejima,18280,Confirmed Eruption,,1,,,2008,,5,,8,,Historical Observations,,2008,,5,,8,,34.094,139.526
+284040,Miyakejima,18279,Confirmed Eruption,,1,,,2008,,1,,7,,Historical Observations,,2008,,1,,7,,34.094,139.526
+284040,Miyakejima,18278,Confirmed Eruption,,1,,,2006,,8,,23,,Historical Observations,,2006,,8,,23,,34.094,139.526
+284040,Miyakejima,18277,Confirmed Eruption,,1,,,2006,,2,,17,,Historical Observations,,2006,,2,,17,,34.094,139.526
+284040,Miyakejima,18276,Confirmed Eruption,,1,,,2005,,4,,12,,Historical Observations,,2005,,5,,18,,34.094,139.526
+284040,Miyakejima,18275,Confirmed Eruption,,1,,,2004,,11,,30,,Historical Observations,,2004,,12,,9,,34.094,139.526
+284040,Miyakejima,18274,Confirmed Eruption,,2,,,2001,,1,,11,,Historical Observations,,2002,,11,,24,,34.094,139.526
+284040,Miyakejima,18273,Confirmed Eruption,Summit and submarine western flank,3,,,2000,,6,,27,,Historical Observations,,2000,,9,,28,,34.094,139.526
+284040,Miyakejima,18272,Confirmed Eruption,SW flank (4.5 km long NE-SW fissure),3,,,1983,,10,,3,,Historical Observations,,1983,,10,,4,,34.094,139.526
+284040,Miyakejima,18271,Confirmed Eruption,NE flank,2,,,1962,,8,,24,,Historical Observations,,1962,,8,,27,,34.094,139.526
+284040,Miyakejima,18270,Confirmed Eruption,"Oyama, NE flank",3,,,1940,,7,,12,,Historical Observations,,1940,,8,,5,,34.094,139.526
+284040,Miyakejima,18269,Confirmed Eruption,NNE flank (560 m),3,,,1874,,7,,3,,Historical Observations,,1874,,7,?,17,,34.094,139.526
+284040,Miyakejima,18267,Confirmed Eruption,West flank (east and SE of Ako),2,,,1835,,11,?,11,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18266,Confirmed Eruption,Summit and NE flank?,2,,,1811,,1,,27,,Historical Observations,,1811,,1,,28,,34.094,139.526
+284040,Miyakejima,18265,Confirmed Eruption,"Oyama, SSW flank (Shinmio maar)",4,,,1763,,8,,17,,Historical Observations,,1769,,0,,0,,34.094,139.526
+284040,Miyakejima,18264,Confirmed Eruption,SW flank (Kuwanoki-daira),3,?,,1712,,2,,4,,Historical Observations,,1714,,0,,0,,34.094,139.526
+284040,Miyakejima,18262,Confirmed Eruption,"SW flank (SE of Ako, Kuwanoki-daira?)",3,,,1643,,3,,31,,Historical Observations,,1643,,4,,0,,34.094,139.526
+284040,Miyakejima,18261,Confirmed Eruption,SE flank,2,,,1595,,11,,22,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18260,Confirmed Eruption,SE flank,2,,,1535,,3,,0,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18259,Confirmed Eruption,Oyama,3,,,1469,,12,,24,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18258,Confirmed Eruption,NE flank?,3,,,1154,,11,,0,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18257,Confirmed Eruption,,2,,,1085,,0,,0,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18256,Confirmed Eruption,Oyama and East flank (Mi-ike maar),4,,?,850,,0,,0,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18255,Confirmed Eruption,,3,,,832,,6,,23,,Historical Observations,,,,,,,,34.094,139.526
+284040,Miyakejima,18254,Confirmed Eruption,NE flank,3,,,750,50,0,,0,,Radiocarbon (corrected),,,,,,,,34.094,139.526
+284040,Miyakejima,17590,Confirmed Eruption,Daihannya-yama,3,,,500,50,0,,0,,Radiocarbon (corrected),,,,,,,,34.094,139.526
+284040,Miyakejima,17589,Confirmed Eruption,Sabigahama,3,?,,320,500,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17588,Confirmed Eruption,,4,,,260,500,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17587,Confirmed Eruption,Taira-yama,3,,,-50,50,0,,0,,Radiocarbon (corrected),,,,,,,,34.094,139.526
+284040,Miyakejima,17586,Confirmed Eruption,,3,,,-600,500,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17585,Confirmed Eruption,"Hatchodaira caldera, S flank (Furumio maar)",4,+,,-950,200,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17584,Confirmed Eruption,,3,,?,-1250,,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17583,Confirmed Eruption,NW flank (NGS scoria layer),,,,-1450,500,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17582,Confirmed Eruption,South flank (Mizutamari maar),3,,,-1800,50,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17581,Confirmed Eruption,,3,,,-2000,100,0,,0,,Radiocarbon (corrected),,,,,,,,34.094,139.526
+284040,Miyakejima,17580,Confirmed Eruption,,4,,,-2900,500,0,,0,,Tephrochronology,,,,,,,,34.094,139.526
+284040,Miyakejima,17579,Confirmed Eruption,NW flank,4,,,-6450,500,0,,0,,Tephrochronology,,,,,,,,34.094,139.526

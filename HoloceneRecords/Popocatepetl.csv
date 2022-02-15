@@ -1,0 +1,42 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+341090,Popocatepetl,10556,Confirmed Eruption,,2,,,2005,,1,,9,,Historical Observations,>,2017,,8,,4,,19.023,-98.622
+341090,Popocatepetl,10552,Confirmed Eruption,,2,,,2004,,5,,26,,Historical Observations,,2004,,5,,26,,19.023,-98.622
+341090,Popocatepetl,10551,Confirmed Eruption,,3,,,1996,,3,,5,,Historical Observations,,2003,,11,?,22,,19.023,-98.622
+341090,Popocatepetl,10550,Confirmed Eruption,,2,,,1994,,12,,21,,Historical Observations,,1995,,10,,5,,19.023,-98.622
+341090,Popocatepetl,10549,Confirmed Eruption,,1,,,1947,,1,,0,,Historical Observations,,1947,,2,,0,,19.023,-98.622
+341090,Popocatepetl,10548,Confirmed Eruption,,1,,,1942,,0,,0,,Historical Observations,,1943,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10547,Confirmed Eruption,,1,,,1933,,1,,23,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10546,Confirmed Eruption,,2,,,1925,,0,,0,,Historical Observations,?,1927,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10545,Confirmed Eruption,,1,,,1923,,11,,27,,Historical Observations,,1924,,3,,7,,19.023,-98.622
+341090,Popocatepetl,10544,Confirmed Eruption,,1,,,1919,,2,?,19,,Historical Observations,,1922,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10537,Confirmed Eruption,,1,,,1802,,0,,0,,Historical Observations,,1804,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10536,Confirmed Eruption,,1,,,1720,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10535,Confirmed Eruption,,1,,,1697,,10,,20,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10534,Confirmed Eruption,,2,?,,1666,,0,,0,,Historical Observations,,1667,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10533,Confirmed Eruption,,3,?,,1663,,10,,13,,Historical Observations,,1665,,10,,19,,19.023,-98.622
+341090,Popocatepetl,10532,Confirmed Eruption,,2,,,1642,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10531,Confirmed Eruption,,2,,,1592,,0,,0,,Historical Observations,,1594,,10,,0,,19.023,-98.622
+341090,Popocatepetl,10530,Confirmed Eruption,,2,?,,1590,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10529,Confirmed Eruption,,2,?,,1580,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10528,Confirmed Eruption,,2,,,1571,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10527,Confirmed Eruption,,2,,,1548,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10526,Confirmed Eruption,,2,,,1542,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10525,Confirmed Eruption,,2,,,1539,,0,,0,,Historical Observations,,1540,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10524,Confirmed Eruption,,2,,,1530,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10523,Confirmed Eruption,,2,?,,1528,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10522,Confirmed Eruption,,3,?,,1519,,9,,0,,Historical Observations,?,1523,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10376,Confirmed Eruption,,2,?,,1518,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10521,Confirmed Eruption,,2,?,,1512,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10519,Confirmed Eruption,,2,?,,1504,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10518,Confirmed Eruption,,2,?,,1488,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10516,Confirmed Eruption,,2,?,,1354,,0,,0,,Historical Observations,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10515,Confirmed Eruption,,2,?,,1345,,0,,0,,Historical Observations,,1347,,0,,0,,19.023,-98.622
+341090,Popocatepetl,10514,Confirmed Eruption,,4,P,,823,,3,,1,90,Ice Core,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10513,Confirmed Eruption,,,,?,250,,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.023,-98.622
+341090,Popocatepetl,10512,Confirmed Eruption,,4,P,,-200,300,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.023,-98.622
+341090,Popocatepetl,10511,Confirmed Eruption,Volcán El Fraile,,,,-1890,75,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.023,-98.622
+341090,Popocatepetl,10510,Confirmed Eruption,Volcán El Fraile,,,,-2370,75,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.023,-98.622
+341090,Popocatepetl,10509,Confirmed Eruption,Volcán El Fraile,5,,,-3700,300,0,,0,,Radiocarbon (corrected),,,,,,,,19.023,-98.622
+341090,Popocatepetl,10508,Confirmed Eruption,Volcán El Fraile,4,P,?,-5150,,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.023,-98.622
+341090,Popocatepetl,10507,Confirmed Eruption,Volcán El Fraile,,,,-6250,500,0,,0,,Tephrochronology,,,,,,,,19.023,-98.622
+341090,Popocatepetl,10506,Confirmed Eruption,Volcán El Fraile,4,P,?,-7150,,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.023,-98.622

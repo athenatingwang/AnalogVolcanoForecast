@@ -1,0 +1,21 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+351020,"Ruiz, Nevado del",20995,Confirmed Eruption,,2,,,2014,,11,,18,,Historical Observations,,2017,,5,,29,,4.892,-75.324
+351020,"Ruiz, Nevado del",20814,Confirmed Eruption,Arenas Crater,3,,,2012,,2,,22,,Historical Observations,,2013,,7,?,12,,4.892,-75.324
+351020,"Ruiz, Nevado del",11290,Confirmed Eruption,Arenas Crater,3,,,1985,,9,,11,,Historical Observations,,1991,,7,,13,,4.892,-75.324
+351020,"Ruiz, Nevado del",11289,Confirmed Eruption,Arenas Crater,1,,,1984,,12,,22,,Historical Observations,,1985,,3,?,19,,4.892,-75.324
+351020,"Ruiz, Nevado del",11288,Confirmed Eruption,,2,,,1916,,0,,0,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11287,Confirmed Eruption,Arenas and La Olleta(?) craters,3,,,1845,,2,,19,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11285,Confirmed Eruption,,2,,,1831,,0,,0,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11284,Confirmed Eruption,,2,,,1829,,6,,18,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11283,Confirmed Eruption,,2,,,1828,,6,,0,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11281,Confirmed Eruption,,2,,,1805,,3,,14,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11280,Confirmed Eruption,Near Arenas Crater,1,?,,1623,,0,,0,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11279,Confirmed Eruption,Arenas Crater,4,,,1595,,3,<,9,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11278,Confirmed Eruption,Arenas Crater?,,,,1570,,0,,0,,Historical Observations,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11276,Confirmed Eruption,Arenas Crater,4,,?,1350,,0,,0,,Radiocarbon (uncorrected),,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11275,Confirmed Eruption,Arenas Crater,3,,,675,50,0,,0,,Radiocarbon (uncorrected),,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11274,Confirmed Eruption,West flank,3,,,350,300,0,,0,,Radiocarbon (uncorrected),,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11273,Confirmed Eruption,Arenas Crater,4,,,-200,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11272,Confirmed Eruption,Arenas Crater,4,,?,-850,,0,,0,,Tephrochronology,,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11271,Confirmed Eruption,ENE flank ? (Alto la Piramide ?),,,,-1245,150,0,,0,,Radiocarbon (uncorrected),,,,,,,,4.892,-75.324
+351020,"Ruiz, Nevado del",11270,Confirmed Eruption,Arenas Crater,,,<,-6660,,0,,0,,Tephrochronology,,,,,,,,4.892,-75.324

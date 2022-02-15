@@ -1,0 +1,17 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+241080,Tongariro,20827,Confirmed Eruption,Upper Te Maari Craters,2,,,2012,,11,,21,,Historical Observations,,2012,,11,,21,,-39.157,175.632
+241080,Tongariro,20826,Confirmed Eruption,Upper Te Maari Craters,2,,,2012,,8,,6,,Historical Observations,,2012,,8,,7,,-39.157,175.632
+241080,Tongariro,14574,Confirmed Eruption,Ngauruhoe and Red Crater,2,,,1926,,4,,16,,Historical Observations,,1926,,6,,0,,-39.157,175.632
+241080,Tongariro,13564,Confirmed Eruption,NE flank (upper Te Mari Crater),2,,,1896,,11,,0,,Historical Observations,,1896,,12,,26,5,-39.157,175.632
+241080,Tongariro,13563,Confirmed Eruption,NE flank (upper Te Mari Crater),2,,,1892,,11,,30,,Historical Observations,,,,,,,,-39.157,175.632
+241080,Tongariro,13559,Confirmed Eruption,NE flank (upper Te Mari Crater),2,,,1886,,6,,0,,Historical Observations,,,,,,,,-39.157,175.632
+241080,Tongariro,13558,Confirmed Eruption,SSE flank (Red Crater),1,,,1885,1,0,,0,,Historical Observations,,1887,,0,,0,,-39.157,175.632
+241080,Tongariro,13433,Confirmed Eruption,NE flank (Upper Te Mari Crater),2,,,1869,,0,,0,,Historical Observations,,,,,,,,-39.157,175.632
+241080,Tongariro,13550,Confirmed Eruption,SSE flank (Red Crater),1,?,,1859,,4,,21,,Historical Observations,,,,,,,,-39.157,175.632
+241080,Tongariro,13548,Confirmed Eruption,SSE flank (Red Crater),2,,,1855,,0,,0,,Historical Observations,,,,,,,,-39.157,175.632
+241080,Tongariro,14560,Confirmed Eruption,Upper Te Mari Craters,3,,,1500,50,0,,0,,Tephrochronology,,,,,,,,-39.157,175.632
+241080,Tongariro,14559,Confirmed Eruption,Ngauruhoe and Red Crater,5,,,-550,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,-39.157,175.632
+241080,Tongariro,14558,Confirmed Eruption,Tama Lakes to Te Mari,5,,?,-9350,,0,,0,,Tephrochronology,,,,,,,,-39.157,175.632
+241080,Tongariro,14557,Confirmed Eruption,Saddle cone area to Half Cone,5,,?,-9450,,0,,0,,Radiocarbon (corrected),,,,,,,,-39.157,175.632
+241080,Tongariro,14556,Confirmed Eruption,Saddle Cone to Half Cone,5,,?,-9650,,0,,0,,Tephrochronology,,,,,,,,-39.157,175.632
+241080,Tongariro,14555,Confirmed Eruption,,,,?,-9850,,0,,0,,Radiocarbon (corrected),,,,,,,,-39.157,175.632

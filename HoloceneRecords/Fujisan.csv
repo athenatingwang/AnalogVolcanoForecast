@@ -1,0 +1,59 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+283030,Fujisan,17452,Confirmed Eruption,SE flank (Hoei Craters),5,,,1707,,12,,16,,Historical Observations,,1708,,2,?,24,,35.361,138.728
+283030,Fujisan,17451,Confirmed Eruption,,2,?,,1700,,0,,0,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17448,Confirmed Eruption,,2,?,,1511,,9,,1,30,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17447,Confirmed Eruption,North flank (Onagare lava?),2,?,,1435,,12,,31,60,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17445,Confirmed Eruption,,2,?,,1083,,4,,17,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17444,Confirmed Eruption,"Summit, SSE flank (Nishi-Asakizuka)",2,,,1033,,1,?,19,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17442,Confirmed Eruption,South flank ?,2,?,,999,,3,,0,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17439,Confirmed Eruption,North flank (Kenmarubi II?),2,,,937,,12,,18,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17438,Confirmed Eruption,North flank (Kenmarubi I),2,?,,932,,11,,19,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17437,Confirmed Eruption,,2,?,,870,,8,,0,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17436,Confirmed Eruption,"NW flank (Nagao-yama, Kudari-yama)",3,,,864,,6,?,12,,Historical Observations,,866,,2,,1,30,35.361,138.728
+283030,Fujisan,17435,Confirmed Eruption,NW flank (Koriana),2,,,830,,0,,0,,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17434,Confirmed Eruption,,2,?,,826,,12,,31,30,Historical Observations,,,,,,,,35.361,138.728
+283030,Fujisan,17433,Confirmed Eruption,"Summit, NE and NW flanks (Tenjin-yama)",4,,,800,,4,,11,,Historical Observations,,802,,2,>,6,,35.361,138.728
+283030,Fujisan,17432,Confirmed Eruption,,3,,,781,,7,,0,,Historical Observations,,781,,7,,0,,35.361,138.728
+283030,Fujisan,17431,Confirmed Eruption,"NW flank (Kori-ike, Hakudairyuo)",2,,,720,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17430,Confirmed Eruption,South flank (Takabachi),3,,?,530,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17429,Confirmed Eruption,"SE flank (Makuiwa, Nishi-Futatsuzuka)",2,,,520,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17428,Confirmed Eruption,SE flank (Kita-Kansu-yama),3,?,,470,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17427,Confirmed Eruption,SE flank (Akatsuka),2,,?,400,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17426,Confirmed Eruption,SSE flank (Obuchi Craters),,,,370,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17425,Confirmed Eruption,SE flank (Kurotsuka),3,,,350,300,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17424,Confirmed Eruption,NW flank (Oniwa-Okuniwa),1,,?,300,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17423,Confirmed Eruption,NW flank (Kita-Koriike),2,,?,250,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17422,Confirmed Eruption,SE flank,,,,240,150,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17421,Confirmed Eruption,NE flank (Hinokimarubi lava flow),2,,?,220,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17420,Confirmed Eruption,NW flank (Sajiki-yama),2,,?,200,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17419,Confirmed Eruption,NW flank (Ohira-yama),2,,?,100,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17418,Confirmed Eruption,NW flank (Futatsuzuka),2,,?,50,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17417,Confirmed Eruption,South flank,,,,-100,150,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17416,Confirmed Eruption,,,,,-190,100,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17415,Confirmed Eruption,,,,,-520,300,0,,0,,Radiocarbon (corrected),,,,,,,,35.361,138.728
+283030,Fujisan,17414,Confirmed Eruption,,,,,-780,500,0,,0,,Radiocarbon (corrected),,,,,,,,35.361,138.728
+283030,Fujisan,17413,Confirmed Eruption,Upper SE flank,5,,>,-930,,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17412,Confirmed Eruption,,,,,-1010,100,0,,0,,Radiocarbon (corrected),,,,,,,,35.361,138.728
+283030,Fujisan,17411,Confirmed Eruption,NW flank (Omuro-yama),4,+,?,-1030,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17410,Confirmed Eruption,,,,,-1300,150,0,,0,,Radiocarbon (corrected),,,,,,,,35.361,138.728
+283030,Fujisan,17409,Confirmed Eruption,,5,,?,-1350,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17408,Confirmed Eruption,,,,,-1450,100,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17407,Confirmed Eruption,,,,,-1510,100,0,,0,,Radiocarbon (corrected),,,,,,,,35.361,138.728
+283030,Fujisan,17406,Confirmed Eruption,,,,,-1850,150,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17405,Confirmed Eruption,,,,?,-2050,,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17404,Confirmed Eruption,,,,,-2450,500,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17403,Confirmed Eruption,,,,?,-2550,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17402,Confirmed Eruption,,,,,-2800,300,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17401,Confirmed Eruption,,,,?,-3050,,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17400,Confirmed Eruption,,,,,-3690,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17399,Confirmed Eruption,,,,,-4120,300,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17398,Confirmed Eruption,,,,,-4730,500,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17397,Confirmed Eruption,,,,,-5070,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17396,Confirmed Eruption,,,,,-5540,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17395,Confirmed Eruption,,,,?,-6050,,0,,0,,Tephrochronology,,,,,,,,35.361,138.728
+283030,Fujisan,17394,Confirmed Eruption,,,,,-6240,300,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17393,Confirmed Eruption,,,,<,-6580,,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17392,Confirmed Eruption,,,,,-7310,500,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17391,Confirmed Eruption,,,,,-7530,300,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17390,Confirmed Eruption,,,,,-7820,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728
+283030,Fujisan,17389,Confirmed Eruption,South flank? (Mishima),,,>,-8540,,0,,0,,Radiocarbon (uncorrected),,,,,,,,35.361,138.728

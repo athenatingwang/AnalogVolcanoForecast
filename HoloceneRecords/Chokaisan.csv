@@ -1,0 +1,15 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+283220,Chokaisan,18034,Confirmed Eruption,"E side of Shinzan, W of Kojin-yama",1,,,1974,,3,,1,,Historical Observations,,1974,,4,,30,,39.099,140.049
+283220,Chokaisan,18033,Confirmed Eruption,,2,?,,1834,,7,,9,,Historical Observations,,1834,,7,,0,,39.099,140.049
+283220,Chokaisan,18032,Confirmed Eruption,Near Shinzan and Shichiko-zan,2,?,,1821,,5,,23,,Historical Observations,,,,,,,,39.099,140.049
+283220,Chokaisan,18031,Confirmed Eruption,Shinzan (foot of Kojin-yama),2,,,1800,,12,,0,,Historical Observations,,1804,,7,?,0,,39.099,140.049
+283220,Chokaisan,18029,Confirmed Eruption,Small crater at foot of Kojin-yama,2,?,,1740,,6,?,0,,Historical Observations,?,1747,,0,,0,,39.099,140.049
+283220,Chokaisan,18026,Confirmed Eruption,,,,,1659,,4,,0,,Historical Observations,,1663,1,0,,0,,39.099,140.049
+283220,Chokaisan,18021,Confirmed Eruption,,,,,939,,5,,15,,Historical Observations,,,,,,,,39.099,140.049
+283220,Chokaisan,18018,Confirmed Eruption,,2,,,871,,5,,5,,Historical Observations,,,,,,,,39.099,140.049
+283220,Chokaisan,18013,Confirmed Eruption,,,,,830,,1,,0,,Historical Observations,,,,,,,,39.099,140.049
+283220,Chokaisan,18012,Confirmed Eruption,,,,,817,7,0,,0,,Historical Observations,,,,,,,,39.099,140.049
+283220,Chokaisan,18009,Confirmed Eruption,,,,,711,3,0,,0,,Historical Observations,,,,,,,,39.099,140.049
+283220,Chokaisan,18005,Confirmed Eruption,,,,?,-450,,0,,0,,Tephrochronology,,,,,,,,39.099,140.049
+283220,Chokaisan,18004,Confirmed Eruption,Higashi-Chokai,,,?,-650,,0,,0,,Radiocarbon (uncorrected),,,,,,,,39.099,140.049
+283220,Chokaisan,18003,Confirmed Eruption,West flank (Saruana crater),0,,?,-1050,,0,,0,,Tephrochronology,,,,,,,,39.099,140.049

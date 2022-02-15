@@ -1,0 +1,79 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+341040,Colima,20759,Confirmed Eruption,Summit crater,2,,,2013,,1,,6,,Historical Observations,,2017,,3,,7,,19.514,-103.62
+341040,Colima,10475,Confirmed Eruption,1994 crater,3,,,1997,,11,,22,,Historical Observations,,2011,,6,,21,,19.514,-103.62
+341040,Colima,10474,Confirmed Eruption,West of 1987 explosion crater,1,,,1994,,7,,21,,Historical Observations,,1994,,7,,21,,19.514,-103.62
+341040,Colima,10473,Confirmed Eruption,,2,,,1991,,3,,1,,Historical Observations,,1991,,10,,16,15,19.514,-103.62
+341040,Colima,10471,Confirmed Eruption,East side of summit lava dome,1,,,1987,,7,,2,,Historical Observations,,1987,,7,,2,,19.514,-103.62
+341040,Colima,10470,Confirmed Eruption,,1,,,1985,,7,,2,182,Historical Observations,,1986,,1,,5,4,19.514,-103.62
+341040,Colima,10460,Confirmed Eruption,,1,,,1977,,12,,16,15,Historical Observations,,1982,,6,,16,15,19.514,-103.62
+341040,Colima,10469,Confirmed Eruption,,2,,,1975,,12,?,11,,Historical Observations,,1976,,6,,20,,19.514,-103.62
+341040,Colima,10467,Confirmed Eruption,,1,,,1963,,7,,2,182,Historical Observations,,1970,,7,,2,182,19.514,-103.62
+341040,Colima,10466,Confirmed Eruption,,1,,,1961,,7,,2,182,Historical Observations,,1962,,12,,1,30,19.514,-103.62
+341040,Colima,10465,Confirmed Eruption,,1,,,1957,,5,,14,,Historical Observations,,1960,,7,,2,182,19.514,-103.62
+341040,Colima,10463,Confirmed Eruption,,1,?,,1926,4,0,,0,,Historical Observations,?,1931,,0,,0,,19.514,-103.62
+341040,Colima,10459,Confirmed Eruption,,5,,,1913,,1,,17,,Historical Observations,,1913,,1,,24,,19.514,-103.62
+341040,Colima,10458,Confirmed Eruption,,3,,,1908,,12,,18,,Historical Observations,,1909,,7,,1,30,19.514,-103.62
+341040,Colima,10457,Confirmed Eruption,,1,?,,1904,,0,,0,,Historical Observations,,1906,,0,,0,,19.514,-103.62
+341040,Colima,10456,Confirmed Eruption,,3,,,1903,,2,,15,,Historical Observations,,1903,,10,,30,,19.514,-103.62
+341040,Colima,10455,Confirmed Eruption,,2,,,1893,,12,,4,,Historical Observations,,1902,,0,,0,,19.514,-103.62
+341040,Colima,10454,Confirmed Eruption,,2,,,1891,,7,,0,,Historical Observations,,1892,,6,,0,,19.514,-103.62
+341040,Colima,10453,Confirmed Eruption,,2,?,,1890,,11,,18,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10452,Confirmed Eruption,,4,,,1889,,8,,9,,Historical Observations,,1890,,2,,16,,19.514,-103.62
+341040,Colima,10451,Confirmed Eruption,,0,,,1887,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10450,Confirmed Eruption,,3,?,,1885,,12,,26,,Historical Observations,,1886,,10,,0,,19.514,-103.62
+341040,Colima,10449,Confirmed Eruption,,1,,,1882,,0,,0,,Historical Observations,,1884,,0,,0,,19.514,-103.62
+341040,Colima,10448,Confirmed Eruption,,2,,,1880,,12,,1,30,Historical Observations,,1881,,4,,12,,19.514,-103.62
+341040,Colima,10447,Confirmed Eruption,Summit vent and SW flank,1,,,1879,,12,,23,,Historical Observations,,1880,,4,,30,,19.514,-103.62
+341040,Colima,10446,Confirmed Eruption,NE flank (El Volcancito),1,,,1875,,0,,0,,Historical Observations,,1878,,0,,0,,19.514,-103.62
+341040,Colima,10445,Confirmed Eruption,NE flank (El Volcancito),1,,,1874,,6,,12,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10444,Confirmed Eruption,El Volcancito and main crater,3,,,1872,,2,,26,,Historical Observations,,1873,,3,,27,,19.514,-103.62
+341040,Colima,10440,Confirmed Eruption,NE flank (El Volcancito),0,,,1870,,0,,0,,Historical Observations,,1871,,0,,0,,19.514,-103.62
+341040,Colima,10439,Confirmed Eruption,NE flank (El Volcancito),3,,,1869,,6,,12,,Historical Observations,,1869,,8,>,24,,19.514,-103.62
+341040,Colima,10437,Confirmed Eruption,,1,,,1819,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10436,Confirmed Eruption,,4,,,1818,,2,,15,,Historical Observations,,1818,,2,?,16,,19.514,-103.62
+341040,Colima,10435,Confirmed Eruption,,2,?,,1806,,0,,0,,Historical Observations,,1809,,0,,0,,19.514,-103.62
+341040,Colima,10433,Confirmed Eruption,,2,,,1804,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10432,Confirmed Eruption,,2,,,1795,,3,,0,,Historical Observations,,1795,,9,,0,,19.514,-103.62
+341040,Colima,10431,Confirmed Eruption,,2,,,1794,,8,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10430,Confirmed Eruption,,2,,,1780,,11,,26,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10429,Confirmed Eruption,,3,,,1771,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10428,Confirmed Eruption,,3,,,1770,,3,,10,,Historical Observations,,1770,,3,,12,,19.514,-103.62
+341040,Colima,10427,Confirmed Eruption,,2,?,,1769,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10425,Confirmed Eruption,,2,,,1744,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10424,Confirmed Eruption,,2,?,,1743,,10,,22,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10421,Confirmed Eruption,,3,?,,1711,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10420,Confirmed Eruption,,3,?,,1690,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10419,Confirmed Eruption,,4,,,1622,,6,,8,,Historical Observations,,1622,,6,,9,,19.514,-103.62
+341040,Colima,10418,Confirmed Eruption,,3,,,1611,,4,,15,,Historical Observations,,1613,,0,,0,,19.514,-103.62
+341040,Colima,10417,Confirmed Eruption,,4,,,1606,,11,,25,,Historical Observations,,1606,,12,>,13,,19.514,-103.62
+341040,Colima,10415,Confirmed Eruption,,3,,,1590,,1,,14,,Historical Observations,,1590,,1,,15,,19.514,-103.62
+341040,Colima,10414,Confirmed Eruption,,4,,,1585,,1,,10,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10413,Confirmed Eruption,,3,,,1576,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10412,Confirmed Eruption,,2,,,1560,,0,,0,,Historical Observations,,,,,,,,19.514,-103.62
+341040,Colima,10411,Confirmed Eruption,,3,?,,1519,,0,,0,,Historical Observations,,1523,,0,,0,,19.514,-103.62
+341040,Colima,10409,Confirmed Eruption,,,,,1110,200,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10408,Confirmed Eruption,,,,,730,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10407,Confirmed Eruption,,,,,540,150,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10406,Confirmed Eruption,,,,,-650,200,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10405,Confirmed Eruption,,,,?,-1140,,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10404,Confirmed Eruption,,,,,-1170,200,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10403,Confirmed Eruption,,,,?,-1320,,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10402,Confirmed Eruption,,,,,-1450,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10401,Confirmed Eruption,,,,,-1890,75,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10400,Confirmed Eruption,,,,,-1940,300,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10399,Confirmed Eruption,,4,?,,-2370,150,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10398,Confirmed Eruption,,,,,-2800,100,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10397,Confirmed Eruption,,,,,-3030,50,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10396,Confirmed Eruption,,,,,-3180,100,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10395,Confirmed Eruption,,,,?,-3270,,0,,0,,Tephrochronology,,,,,,,,19.514,-103.62
+341040,Colima,10394,Confirmed Eruption,,,,,-3350,300,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10393,Confirmed Eruption,,,,,-3510,200,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10392,Confirmed Eruption,,,,,-3600,200,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10391,Confirmed Eruption,,,,,-4110,100,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10390,Confirmed Eruption,,,,,-4430,300,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10389,Confirmed Eruption,,,,,-4500,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10388,Confirmed Eruption,,,,,-4960,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10387,Confirmed Eruption,,,,,-5880,200,0,,0,,Radiocarbon (corrected),,,,,,,,19.514,-103.62
+341040,Colima,10386,Confirmed Eruption,,,,,-6320,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10385,Confirmed Eruption,,,,,-7420,500,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62
+341040,Colima,10384,Confirmed Eruption,,,,,-7690,500,0,,0,,Radiocarbon (uncorrected),,,,,,,,19.514,-103.62

@@ -1,0 +1,27 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+357150,Puyehue-Cordon Caulle,20809,Confirmed Eruption,"Cordón Caulle, N of the 1960 eruption fissure",5,,,2011,,6,,4,,Historical Observations,,2012,,4,?,21,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12216,Confirmed Eruption,Cordón Caulle,1,,,1990,,7,,2,182,Historical Observations,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12215,Confirmed Eruption,Cordón Caulle,3,?,,1960,,5,,24,,Historical Observations,,1960,,7,,30,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12214,Confirmed Eruption,Cordón Caulle,2,,,1934,,3,,6,,Historical Observations,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12213,Confirmed Eruption,Cordón Caulle,2,,,1929,,1,,7,,Historical Observations,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12212,Confirmed Eruption,Cordón Caulle-Cordillera Nevada,3,,,1921,,12,,13,,Historical Observations,,1922,,2,,12,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12211,Confirmed Eruption,Cordón Caulle,2,,,1919,,0,,0,,Historical Observations,,1920,,0,,0,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12210,Confirmed Eruption,Cordón Caulle,2,,,1914,,2,,8,,Historical Observations,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12209,Confirmed Eruption,Cordón Caulle,2,,?,1905,,0,,0,,Historical Observations,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12208,Confirmed Eruption,Cordón Caulle,2,,?,1893,,0,,0,,Historical Observations,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12207,Confirmed Eruption,Cordón Caulle,2,,?,1759,,0,,0,,Historical Observations,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12206,Confirmed Eruption,,,,,1220,150,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12205,Confirmed Eruption,,,,,1140,100,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12204,Confirmed Eruption,Puyehue,5,,,860,75,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12203,Confirmed Eruption,,,,,500,100,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12202,Confirmed Eruption,Puyehue?,,,,140,300,0,,0,,Tephrochronology,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12201,Confirmed Eruption,,,,,110,200,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12200,Confirmed Eruption,,,,,-490,300,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12199,Confirmed Eruption,,,,,-990,500,0,,0,,Tephrochronology,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12198,Confirmed Eruption,,,,,-1490,150,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12197,Confirmed Eruption,Puyehue,,,,-3250,2400,0,,0,,Ar/Ar,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12196,Confirmed Eruption,,,,,-4230,200,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12195,Confirmed Eruption,Puyehue,,,,-4450,900,0,,0,,Ar/Ar,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12194,Confirmed Eruption,,,,?,-4460,,0,,0,,Tephrochronology,,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12193,Confirmed Eruption,,,,,-4690,200,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117
+357150,Puyehue-Cordon Caulle,12192,Confirmed Eruption,Puyehue,5,,,-5080,150,0,,0,,Radiocarbon (corrected),,,,,,,,-40.59,-72.117

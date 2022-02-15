@@ -1,0 +1,56 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+300100,Avachinsky,19104,Confirmed Eruption,,1,,,2001,,10,,5,,Historical Observations,,2001,,10,,5,,53.256,158.836
+300100,Avachinsky,19103,Confirmed Eruption,,2,,,1991,,1,,13,,Historical Observations,,1991,,1,,30,,53.256,158.836
+300100,Avachinsky,19102,Confirmed Eruption,,4,,,1945,,2,,25,,Historical Observations,,1945,,2,,25,,53.256,158.836
+300100,Avachinsky,19100,Confirmed Eruption,,3,,,1938,,3,,6,,Historical Observations,,1938,,12,>,1,,53.256,158.836
+300100,Avachinsky,19099,Confirmed Eruption,,4,,,1926,,3,,27,,Historical Observations,,1927,,3,?,14,,53.256,158.836
+300100,Avachinsky,19097,Confirmed Eruption,,2,,,1909,,8,,0,,Historical Observations,,,,,,,,53.256,158.836
+300100,Avachinsky,19096,Confirmed Eruption,,2,,,1901,,7,,7,,Historical Observations,,1901,,7,,13,,53.256,158.836
+300100,Avachinsky,19095,Confirmed Eruption,,2,,,1894,,10,,0,,Historical Observations,,1895,,2,,0,,53.256,158.836
+300100,Avachinsky,19094,Confirmed Eruption,,2,,,1881,,0,,0,,Historical Observations,,,,,,,,53.256,158.836
+300100,Avachinsky,19093,Confirmed Eruption,,2,,,1878,,0,,0,,Historical Observations,,,,,,,,53.256,158.836
+300100,Avachinsky,19092,Confirmed Eruption,,2,,,1855,,5,,28,,Historical Observations,,1855,,9,,4,4,53.256,158.836
+300100,Avachinsky,19091,Confirmed Eruption,,2,,,1854,,8,,13,,Historical Observations,,,,,,,,53.256,158.836
+300100,Avachinsky,19090,Confirmed Eruption,,2,,,1853,,12,,21,,Historical Observations,,1854,,3,,14,,53.256,158.836
+300100,Avachinsky,19089,Confirmed Eruption,,2,,,1851,,11,,26,,Historical Observations,,1852,,2,,14,4,53.256,158.836
+300100,Avachinsky,19087,Confirmed Eruption,,2,,,1828,,4,,17,,Historical Observations,,,,,,,,53.256,158.836
+300100,Avachinsky,19086,Confirmed Eruption,,4,,,1827,,6,,27,,Historical Observations,,1827,,6,,29,,53.256,158.836
+300100,Avachinsky,19084,Confirmed Eruption,,3,,,1779,,6,,15,,Historical Observations,,1779,,6,,16,,53.256,158.836
+300100,Avachinsky,19083,Confirmed Eruption,,2,,,1772,,0,,0,,Historical Observations,,,,,,,,53.256,158.836
+300100,Avachinsky,19082,Confirmed Eruption,,3,,,1737,,8,,0,,Historical Observations,,1737,,8,,0,,53.256,158.836
+300100,Avachinsky,19081,Confirmed Eruption,,,,?,1550,,0,,0,,Radiocarbon (uncorrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19080,Confirmed Eruption,,,,?,1400,,0,,0,,Radiocarbon (uncorrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19079,Confirmed Eruption,,,,?,1200,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19078,Confirmed Eruption,,,,?,1100,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19077,Confirmed Eruption,,,,?,900,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19076,Confirmed Eruption,,,,?,700,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19075,Confirmed Eruption,,,,?,400,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19074,Confirmed Eruption,,,,?,100,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19073,Confirmed Eruption,,5,,?,-1350,,0,,0,,Radiocarbon (uncorrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19072,Confirmed Eruption,,5,,?,-1500,,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19071,Confirmed Eruption,,,,?,-1700,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19070,Confirmed Eruption,,,,?,-2100,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19069,Confirmed Eruption,,,,?,-2300,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19068,Confirmed Eruption,,,,?,-2500,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19067,Confirmed Eruption,,4,,,-2530,300,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19066,Confirmed Eruption,,,,?,-2650,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19065,Confirmed Eruption,,,,?,-2900,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19064,Confirmed Eruption,,,,?,-2950,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19063,Confirmed Eruption,,5,,,-3200,150,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19062,Confirmed Eruption,,,,?,-3400,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19061,Confirmed Eruption,,,,?,-3500,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19060,Confirmed Eruption,,,,?,-3700,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19059,Confirmed Eruption,,4,,,-3790,100,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19058,Confirmed Eruption,,,,?,-4050,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19057,Confirmed Eruption,,,,?,-4200,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19056,Confirmed Eruption,,,,?,-4250,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19055,Confirmed Eruption,,5,,,-4340,75,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19054,Confirmed Eruption,,,,?,-4400,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19053,Confirmed Eruption,,4,,,-4460,100,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19052,Confirmed Eruption,,4,,,-4550,200,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19051,Confirmed Eruption,,,,?,-5450,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19050,Confirmed Eruption,,,,?,-5500,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19049,Confirmed Eruption,,,,?,-5600,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19048,Confirmed Eruption,,,,?,-5700,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836
+300100,Avachinsky,19047,Confirmed Eruption,,5,+,,-5980,100,0,,0,,Radiocarbon (corrected),,,,,,,,53.256,158.836
+300100,Avachinsky,19046,Confirmed Eruption,,,,?,-6100,,0,,0,,Tephrochronology,,,,,,,,53.256,158.836

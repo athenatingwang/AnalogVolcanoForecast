@@ -1,0 +1,59 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+300240,Tolbachik,20825,Confirmed Eruption,Tolbachinsky Dol,4,,,2012,,11,,27,,Historical Observations,,2013,,8,?,22,,55.832,160.326
+300240,Tolbachik,19323,Confirmed Eruption,South flank (18 & 28 km from summit),4,+,,1975,,6,,28,,Historical Observations,,1976,,12,,10,,55.832,160.326
+300240,Tolbachik,19321,Confirmed Eruption,,2,,,1970,,9,,16,15,Historical Observations,,1970,,12,,1,30,55.832,160.326
+300240,Tolbachik,19320,Confirmed Eruption,,1,,,1970,,1,,16,15,Historical Observations,,1970,,4,,16,15,55.832,160.326
+300240,Tolbachik,19319,Confirmed Eruption,,1,,,1968,,7,,2,182,Historical Observations,,1969,,7,,2,182,55.832,160.326
+300240,Tolbachik,19318,Confirmed Eruption,,2,,,1967,,10,,16,15,Historical Observations,,1967,,11,,16,15,55.832,160.326
+300240,Tolbachik,19317,Confirmed Eruption,,2,,,1967,,3,,16,15,Historical Observations,,1967,,5,,16,15,55.832,160.326
+300240,Tolbachik,19316,Confirmed Eruption,,2,,,1966,,4,,15,45,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19315,Confirmed Eruption,,1,,,1965,,7,,2,182,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19314,Confirmed Eruption,,2,,,1964,,3,,16,15,Historical Observations,,1964,,4,>,24,,55.832,160.326
+300240,Tolbachik,19313,Confirmed Eruption,,1,,,1962,,8,,16,15,Historical Observations,,1963,,7,,2,182,55.832,160.326
+300240,Tolbachik,19312,Confirmed Eruption,,2,,,1961,,3,,24,,Historical Observations,,1962,,2,>,16,,55.832,160.326
+300240,Tolbachik,19311,Confirmed Eruption,,2,,,1959,,7,,2,182,Historical Observations,,1960,,7,,2,182,55.832,160.326
+300240,Tolbachik,19310,Confirmed Eruption,,2,?,,1958,,7,<,13,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19309,Confirmed Eruption,,2,,,1956,,9,,28,,Historical Observations,,1957,,11,,28,,55.832,160.326
+300240,Tolbachik,19308,Confirmed Eruption,,2,,,1955,,10,,6,,Historical Observations,,1955,,12,,8,,55.832,160.326
+300240,Tolbachik,19307,Confirmed Eruption,,2,,,1955,,1,,7,,Historical Observations,,1955,,2,,9,,55.832,160.326
+300240,Tolbachik,19306,Confirmed Eruption,,2,,,1954,,2,,21,,Historical Observations,,1954,,6,,13,,55.832,160.326
+300240,Tolbachik,19305,Confirmed Eruption,,2,?,,1947,,1,,0,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19304,Confirmed Eruption,"Summit, SW flank (1950 m)",3,,,1940,,11,,0,,Historical Observations,,1941,,7,,15,45,55.832,160.326
+300240,Tolbachik,19303,Confirmed Eruption,,2,,,1940,,2,,0,,Historical Observations,,1940,,4,,0,,55.832,160.326
+300240,Tolbachik,19302,Confirmed Eruption,,2,,,1939,,9,,25,,Historical Observations,,1939,,9,,27,,55.832,160.326
+300240,Tolbachik,19301,Confirmed Eruption,,2,,,1936,,8,<,13,,Historical Observations,,1937,,3,,2,,55.832,160.326
+300240,Tolbachik,19300,Confirmed Eruption,,2,,,1931,,3,,4,,Historical Observations,,1932,,0,,0,,55.832,160.326
+300240,Tolbachik,19299,Confirmed Eruption,,2,,,1904,,0,,0,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19298,Confirmed Eruption,,2,,,1793,,0,,0,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19297,Confirmed Eruption,,2,,,1790,,0,,0,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19296,Confirmed Eruption,,2,,,1789,,0,,0,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19295,Confirmed Eruption,,2,,,1788,,0,,0,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19294,Confirmed Eruption,,2,,,1769,,2,,15,45,Historical Observations,,1769,,10,,15,45,55.832,160.326
+300240,Tolbachik,19293,Confirmed Eruption,,2,,,1740,,12,,0,,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19292,Confirmed Eruption,,2,?,,1739,,2,,1,30,Historical Observations,,,,,,,,55.832,160.326
+300240,Tolbachik,19290,Confirmed Eruption,SW flank (Zvezda),2,,?,1550,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19289,Confirmed Eruption,"SW flank (Visokaya, Treschina)",3,,?,1050,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19288,Confirmed Eruption,"SW flank (Kleshnya, Rastaschenny)",4,+,?,1000,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19287,Confirmed Eruption,SW flank (Alaid),4,+,?,950,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19286,Confirmed Eruption,SW flank (Peschanie Gorky),4,,?,900,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19285,Confirmed Eruption,SW flank (Kamenistaya),3,,?,550,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19284,Confirmed Eruption,"SW flank (Dvoinoy, Nedostupny, Dalny)",3,,?,450,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19283,Confirmed Eruption,"SW flank (Pelmen, Lagerny)",4,+,?,400,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19282,Confirmed Eruption,SW flank (Zasipannie),,,?,350,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19281,Confirmed Eruption,"SW flank (Poteryanny, Yupiter)",,,?,250,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19280,Confirmed Eruption,SW flank (Zapretny),,,?,150,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19279,Confirmed Eruption,"SW flank (Mt. 1004, Pra-Visokaya)",4,+,?,50,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19278,Confirmed Eruption,"SW flank (Sosed, Malenky)",,,?,-100,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19277,Confirmed Eruption,SW flank (Kust),,,?,-200,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19276,Confirmed Eruption,SW flank (Buraya),,,?,-700,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19275,Confirmed Eruption,"SW flank (Tsepochka, Malishi)",,,?,-750,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19274,Confirmed Eruption,"SW flank (Serga, Starichky)",,,?,-800,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19273,Confirmed Eruption,SW flank (Istochniky),,,?,-1650,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19272,Confirmed Eruption,SW flank (Mokhnataya),3,,?,-1750,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19271,Confirmed Eruption,SW flank (Kruglenky),3,,?,-2050,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19270,Confirmed Eruption,Plosky and Ostry Tolbachik calderas,,,?,-4550,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19269,Confirmed Eruption,SW flank and NE flank,,,?,-5450,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19268,Confirmed Eruption,SW flank,,,?,-5600,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19267,Confirmed Eruption,SW flank (Bubochka),,,?,-5650,,0,,0,,Tephrochronology,,,,,,,,55.832,160.326
+300240,Tolbachik,19266,Confirmed Eruption,SW flank (Lesnaya),,,?,-6050,,0,,0,,Radiocarbon (uncorrected),,,,,,,,55.832,160.326
+300240,Tolbachik,19265,Confirmed Eruption,,,,?,-7600,,0,,0,,Radiocarbon (corrected),,,,,,,,55.832,160.326

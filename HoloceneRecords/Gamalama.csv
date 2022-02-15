@@ -1,0 +1,67 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+268060,Gamalama,22150,Confirmed Eruption,,1,,,2016,,8,,3,,Historical Observations,,2016,,8,,4,,0.8,127.33
+268060,Gamalama,21087,Confirmed Eruption,,2,,,2015,,7,,16,,Historical Observations,,2015,,9,,8,,0.8,127.33
+268060,Gamalama,20989,Confirmed Eruption,,2,,,2014,,12,,18,,Historical Observations,,2014,,12,,25,,0.8,127.33
+268060,Gamalama,20766,Confirmed Eruption,Summit crater,1,,,2012,,9,,15,,Historical Observations,,2012,,9,,17,,0.8,127.33
+268060,Gamalama,20765,Confirmed Eruption,,2,,,2011,,12,,5,,Historical Observations,,2011,,12,,23,,0.8,127.33
+268060,Gamalama,16675,Confirmed Eruption,,2,,,2003,,7,,31,,Historical Observations,,2003,,10,,2,3,0.8,127.33
+268060,Gamalama,16674,Confirmed Eruption,,2,?,,1996,,7,,2,182,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16673,Confirmed Eruption,,2,,,1994,,1,,16,15,Historical Observations,,1994,,10,>,15,,0.8,127.33
+268060,Gamalama,16672,Confirmed Eruption,,2,,,1993,,5,,6,,Historical Observations,,1993,,5,,21,,0.8,127.33
+268060,Gamalama,16670,Confirmed Eruption,,3,?,,1990,,4,,25,,Historical Observations,,1990,,4,,26,,0.8,127.33
+268060,Gamalama,16669,Confirmed Eruption,,2,,,1988,,2,,12,,Historical Observations,,1988,,3,?,16,15,0.8,127.33
+268060,Gamalama,16668,Confirmed Eruption,,3,,,1983,,8,,9,,Historical Observations,,1983,,8,,12,,0.8,127.33
+268060,Gamalama,16667,Confirmed Eruption,,2,,,1980,,9,,4,,Historical Observations,,1980,,9,,23,,0.8,127.33
+268060,Gamalama,16666,Confirmed Eruption,East flank,2,,,1962,,12,,31,,Historical Observations,,1963,,1,?,2,,0.8,127.33
+268060,Gamalama,16665,Confirmed Eruption,,2,,,1938,,9,,8,,Historical Observations,,1938,,9,,8,,0.8,127.33
+268060,Gamalama,16664,Confirmed Eruption,,2,,,1933,,11,,12,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16663,Confirmed Eruption,,2,,,1932,,11,,10,,Historical Observations,,1932,,11,,13,,0.8,127.33
+268060,Gamalama,16662,Confirmed Eruption,,2,,,1923,,4,,13,,Historical Observations,,1923,,5,,6,,0.8,127.33
+268060,Gamalama,16661,Confirmed Eruption,,1,,,1918,,8,,0,,Historical Observations,,1918,,9,,4,,0.8,127.33
+268060,Gamalama,16660,Confirmed Eruption,,1,,,1911,,9,,2,,Historical Observations,,1911,,9,,6,,0.8,127.33
+268060,Gamalama,16659,Confirmed Eruption,,2,,,1907,,11,,17,,Historical Observations,,1907,,11,,20,,0.8,127.33
+268060,Gamalama,16657,Confirmed Eruption,,2,,,1898,,5,,14,,Historical Observations,,1898,,5,?,28,,0.8,127.33
+268060,Gamalama,16656,Confirmed Eruption,,1,,,1897,,9,,7,,Historical Observations,,1897,,9,,24,,0.8,127.33
+268060,Gamalama,16654,Confirmed Eruption,,1,,,1895,,12,,19,,Historical Observations,,1895,,12,,19,,0.8,127.33
+268060,Gamalama,16652,Confirmed Eruption,,2,,,1884,,5,,0,,Historical Observations,,1884,,5,,0,,0.8,127.33
+268060,Gamalama,16651,Confirmed Eruption,,2,,,1871,,8,,7,,Historical Observations,,1871,,9,,25,,0.8,127.33
+268060,Gamalama,16649,Confirmed Eruption,,2,,,1868,,11,,13,,Historical Observations,,1869,,2,,10,,0.8,127.33
+268060,Gamalama,16648,Confirmed Eruption,,1,,,1868,,3,,13,,Historical Observations,,1868,,3,,13,,0.8,127.33
+268060,Gamalama,16647,Confirmed Eruption,,2,,,1864,,12,,27,,Historical Observations,,1865,,1,,2,,0.8,127.33
+268060,Gamalama,16645,Confirmed Eruption,,2,,,1864,,1,,20,,Historical Observations,,1864,,2,,17,,0.8,127.33
+268060,Gamalama,16643,Confirmed Eruption,,2,,,1862,,7,,15,,Historical Observations,,1862,,10,,0,,0.8,127.33
+268060,Gamalama,16640,Confirmed Eruption,,2,,,1849,,11,,27,,Historical Observations,,1850,,11,,19,,0.8,127.33
+268060,Gamalama,16639,Confirmed Eruption,,,,,1847,,9,,7,,Historical Observations,,1847,,9,,7,,0.8,127.33
+268060,Gamalama,16637,Confirmed Eruption,,2,,,1847,,2,,7,,Historical Observations,,1847,,2,,7,,0.8,127.33
+268060,Gamalama,16636,Confirmed Eruption,,2,,,1846,,5,,19,,Historical Observations,,1846,,5,,19,,0.8,127.33
+268060,Gamalama,16633,Confirmed Eruption,,2,,,1843,,4,,10,,Historical Observations,,1843,,5,,27,,0.8,127.33
+268060,Gamalama,16632,Confirmed Eruption,,1,,,1842,,10,,6,,Historical Observations,,1842,,12,,31,,0.8,127.33
+268060,Gamalama,16630,Confirmed Eruption,,3,,,1840,,2,,2,,Historical Observations,,1840,,9,,29,,0.8,127.33
+268060,Gamalama,16629,Confirmed Eruption,,2,,,1839,,1,,29,,Historical Observations,,1839,,3,,26,,0.8,127.33
+268060,Gamalama,16628,Confirmed Eruption,,2,,,1838,,2,,26,,Historical Observations,,1838,,5,,0,,0.8,127.33
+268060,Gamalama,16627,Confirmed Eruption,,2,,,1835,,1,,4,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16626,Confirmed Eruption,,2,,,1833,,6,,15,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16625,Confirmed Eruption,,2,,,1831,,5,,27,,Historical Observations,,1831,,6,,27,,0.8,127.33
+268060,Gamalama,16621,Confirmed Eruption,,2,,,1814,,11,,27,,Historical Observations,,1814,,11,,28,,0.8,127.33
+268060,Gamalama,16620,Confirmed Eruption,,2,,,1812,,9,,7,,Historical Observations,,1812,,9,,7,,0.8,127.33
+268060,Gamalama,16619,Confirmed Eruption,,2,,,1811,,2,,1,,Historical Observations,,1811,,5,,0,,0.8,127.33
+268060,Gamalama,16617,Confirmed Eruption,Summit and NW flank (100 m),3,,,1775,,8,,20,,Historical Observations,,1775,,11,,6,,0.8,127.33
+268060,Gamalama,16616,Confirmed Eruption,,2,,,1773,,10,,21,,Historical Observations,,1774,,1,,22,,0.8,127.33
+268060,Gamalama,16615,Confirmed Eruption,,2,,,1773,,2,,2,,Historical Observations,,1773,,2,,7,,0.8,127.33
+268060,Gamalama,16614,Confirmed Eruption,,3,,,1771,,8,,28,,Historical Observations,,1772,,10,,9,,0.8,127.33
+268060,Gamalama,16613,Confirmed Eruption,,3,,,1770,,7,,6,,Historical Observations,,1770,,12,,9,,0.8,127.33
+268060,Gamalama,16612,Confirmed Eruption,North flank,2,,,1763,,0,,0,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16611,Confirmed Eruption,,2,,,1739,,0,,0,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16610,Confirmed Eruption,,2,,,1737,,3,,10,,Historical Observations,,1737,,3,,13,,0.8,127.33
+268060,Gamalama,16609,Confirmed Eruption,,3,^,,1687,,5,,10,,Historical Observations,,1687,,5,,11,,0.8,127.33
+268060,Gamalama,16608,Confirmed Eruption,,2,,,1686,,9,?,0,,Historical Observations,,1686,,10,>,13,,0.8,127.33
+268060,Gamalama,16607,Confirmed Eruption,,2,,,1676,,12,,31,365,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16605,Confirmed Eruption,,2,,,1659,,6,,0,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16604,Confirmed Eruption,,3,^,,1653,,12,,31,365,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16603,Confirmed Eruption,,2,,,1648,,6,,15,,Historical Observations,,1648,,6,,18,,0.8,127.33
+268060,Gamalama,16601,Confirmed Eruption,,2,,,1635,,3,,29,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16600,Confirmed Eruption,,3,,,1608,,7,,18,,Historical Observations,,1608,,7,,19,,0.8,127.33
+268060,Gamalama,16599,Confirmed Eruption,,2,,,1605,,5,,0,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16598,Confirmed Eruption,,2,,,1561,,12,,31,365,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16490,Confirmed Eruption,,3,^,,1538,,0,,0,,Historical Observations,,,,,,,,0.8,127.33
+268060,Gamalama,16597,Confirmed Eruption,,3,^,,1510,10,0,,0,,Historical Observations,,,,,,,,0.8,127.33

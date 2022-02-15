@@ -1,0 +1,20 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+283180,Azumayama,17937,Confirmed Eruption,Issaikyo (Oana),1,,,1977,,12,,7,,Historical Observations,,1977,,12,,7,,37.735,140.244
+283180,Azumayama,17934,Confirmed Eruption,Issaikyo (Oana and NW of Oana),1,,,1950,,2,,10,,Historical Observations,,1950,,2,,19,,37.735,140.244
+283180,Azumayama,17931,Confirmed Eruption,Issaikyo (near Oana),1,,,1895,,3,,8,,Historical Observations,,1895,,9,,13,,37.735,140.244
+283180,Azumayama,17930,Confirmed Eruption,Issaikyo (near Oana),1,,,1894,,3,,16,,Historical Observations,,1894,,4,,12,,37.735,140.244
+283180,Azumayama,17929,Confirmed Eruption,Issaikyo,1,,,1893,,11,,9,,Historical Observations,,1893,,11,,10,,37.735,140.244
+283180,Azumayama,17928,Confirmed Eruption,Issaikyo (west of Oana),1,,,1893,,5,,19,,Historical Observations,,1893,,7,,13,,37.735,140.244
+283180,Azumayama,17926,Confirmed Eruption,Issaikyo (Oana),,,?,1800,,0,,0,,Historical Observations,,,,,,,,37.735,140.244
+283180,Azumayama,17925,Confirmed Eruption,Issaikyo (Oana area),1,,?,1711,,0,,0,,Historical Observations,,,,,,,,37.735,140.244
+283180,Azumayama,17924,Confirmed Eruption,Issaikyo,1,,,1331,,0,,0,,Historical Observations,,,,,,,,37.735,140.244
+283180,Azumayama,17923,Confirmed Eruption,,,,,600,200,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17922,Confirmed Eruption,Issaikyo,,,,-150,200,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17921,Confirmed Eruption,Issaikyo,,,,-950,100,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17920,Confirmed Eruption,Issaikyo,,,,-1800,50,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17919,Confirmed Eruption,Issaikyo,,,,-2750,200,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17918,Confirmed Eruption,Issaikyo,1,,,-3000,50,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17917,Confirmed Eruption,Azuma Ko-Fuji,3,,,-4150,500,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17916,Confirmed Eruption,Issaikyo-Minami,,,,-4550,1000,0,,0,,Tephrochronology,,,,,,,,37.735,140.244
+283180,Azumayama,17915,Confirmed Eruption,Goshiki-numa,1,,,-5400,200,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244
+283180,Azumayama,17914,Confirmed Eruption,Oke-numa,2,,,-5700,50,0,,0,,Radiocarbon (corrected),,,,,,,,37.735,140.244

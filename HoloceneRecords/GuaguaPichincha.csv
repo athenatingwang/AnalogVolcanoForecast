@@ -1,0 +1,34 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+352020,Guagua Pichincha,11499,Confirmed Eruption,,1,?,,2002,,10,,11,,Historical Observations,,2002,,12,,7,,-0.171,-78.598
+352020,Guagua Pichincha,11498,Confirmed Eruption,,1,?,,2002,,4,,16,15,Historical Observations,,2002,,4,,16,15,-0.171,-78.598
+352020,Guagua Pichincha,11497,Confirmed Eruption,North of 1981 crater,1,?,,2001,,11,,26,,Historical Observations,,2001,,11,,26,,-0.171,-78.598
+352020,Guagua Pichincha,11496,Confirmed Eruption,West and SE of 1981 crater,3,,,1998,,8,,7,,Historical Observations,,2001,,5,,25,,-0.171,-78.598
+352020,Guagua Pichincha,11495,Confirmed Eruption,1981 crater,1,,,1997,,3,,16,15,Historical Observations,,1997,,10,,18,,-0.171,-78.598
+352020,Guagua Pichincha,11494,Confirmed Eruption,1981 crater,1,,,1993,,3,,9,,Historical Observations,,1993,,3,,12,,-0.171,-78.598
+352020,Guagua Pichincha,11493,Confirmed Eruption,1981 crater,1,,,1990,,4,,16,,Historical Observations,,1990,,5,,10,,-0.171,-78.598
+352020,Guagua Pichincha,11492,Confirmed Eruption,1981 crater,1,,,1985,,5,,16,15,Historical Observations,,1985,,6,,16,15,-0.171,-78.598
+352020,Guagua Pichincha,11491,Confirmed Eruption,NE side of 1660 lava dome,1,,,1981,,8,,31,5,Historical Observations,,1982,,11,?,16,15,-0.171,-78.598
+352020,Guagua Pichincha,11490,Confirmed Eruption,,2,,,1881,,3,,10,,Historical Observations,,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11489,Confirmed Eruption,,2,,,1869,,7,,22,,Historical Observations,,1869,,8,,24,,-0.171,-78.598
+352020,Guagua Pichincha,11488,Confirmed Eruption,,2,,,1869,,3,,0,,Historical Observations,,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11487,Confirmed Eruption,,2,,,1868,,8,,0,,Historical Observations,,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11486,Confirmed Eruption,,2,,,1868,,3,,19,,Historical Observations,,1868,,3,,22,,-0.171,-78.598
+352020,Guagua Pichincha,11485,Confirmed Eruption,,3,,,1831,,0,,0,,Historical Observations,,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11484,Confirmed Eruption,,2,,,1830,,0,,0,,Historical Observations,,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11483,Confirmed Eruption,,4,,,1660,,10,,27,,Historical Observations,,1660,,11,,28,,-0.171,-78.598
+352020,Guagua Pichincha,11482,Confirmed Eruption,,3,,,1582,,6,,5,,Historical Observations,,1598,,0,,0,,-0.171,-78.598
+352020,Guagua Pichincha,11479,Confirmed Eruption,,2,,,1575,,9,,8,,Historical Observations,,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11478,Confirmed Eruption,,3,^,,1566,,10,,17,,Historical Observations,,1566,,11,,16,,-0.171,-78.598
+352020,Guagua Pichincha,11471,Confirmed Eruption,,5,,,930,100,0,,0,,Radiocarbon (corrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11470,Confirmed Eruption,,,,,550,75,0,,0,,Radiocarbon (corrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11469,Confirmed Eruption,,4,,,70,75,0,,0,,Radiocarbon (corrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11468,Confirmed Eruption,,,,,-1230,75,0,,0,,Radiocarbon (corrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11467,Confirmed Eruption,,,,,-1860,100,0,,0,,Radiocarbon (corrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11466,Confirmed Eruption,,,,,-2090,75,0,,0,,Radiocarbon (corrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11465,Confirmed Eruption,,,,?,-3500,,0,,0,,Radiocarbon (uncorrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11464,Confirmed Eruption,,,,,-4850,1350,0,,0,,Tephrochronology,,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11463,Confirmed Eruption,,,,?,-6200,,0,,0,,Radiocarbon (uncorrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11462,Confirmed Eruption,,,,?,-6300,,0,,0,,Radiocarbon (uncorrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11461,Confirmed Eruption,,,,?,-6400,,0,,0,,Radiocarbon (uncorrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11460,Confirmed Eruption,,,,?,-6650,,0,,0,,Radiocarbon (uncorrected),,,,,,,,-0.171,-78.598
+352020,Guagua Pichincha,11459,Confirmed Eruption,,,,?,-7000,,0,,0,,Radiocarbon (uncorrected),,,,,,,,-0.171,-78.598

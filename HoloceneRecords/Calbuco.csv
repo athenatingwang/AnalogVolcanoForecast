@@ -1,0 +1,37 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+358020,Calbuco,21076,Confirmed Eruption,,4,,,2015,,4,,22,,Historical Observations,,2015,,5,,26,,-41.33,-72.618
+358020,Calbuco,12263,Confirmed Eruption,,2,,,1972,,8,,26,,Historical Observations,,1972,,8,,26,,-41.33,-72.618
+358020,Calbuco,12262,Confirmed Eruption,,3,,,1961,,2,,1,,Historical Observations,,1961,,3,>,26,,-41.33,-72.618
+358020,Calbuco,12261,Confirmed Eruption,,,,,1945,,0,,0,,Historical Observations,,,,,,,,-41.33,-72.618
+358020,Calbuco,12260,Confirmed Eruption,,,,,1932,,0,,0,,Historical Observations,,,,,,,,-41.33,-72.618
+358020,Calbuco,12259,Confirmed Eruption,,3,?,,1929,,1,,6,,Historical Observations,,1929,,1,,6,,-41.33,-72.618
+358020,Calbuco,12258,Confirmed Eruption,,3,?,,1917,,4,,0,,Historical Observations,,1917,,5,,0,,-41.33,-72.618
+358020,Calbuco,12257,Confirmed Eruption,,2,,,1911,,0,,0,,Historical Observations,,1912,,0,,0,,-41.33,-72.618
+358020,Calbuco,12256,Confirmed Eruption,,2,,,1909,,3,,0,,Historical Observations,,,,,,,,-41.33,-72.618
+358020,Calbuco,12255,Confirmed Eruption,,2,?,,1907,,4,,22,,Historical Observations,,,,,,,,-41.33,-72.618
+358020,Calbuco,12254,Confirmed Eruption,,2,,,1906,,0,,0,,Historical Observations,,,,,,,,-41.33,-72.618
+358020,Calbuco,12253,Confirmed Eruption,,2,?,,1894,,11,,16,,Historical Observations,?,1895,,0,,0,,-41.33,-72.618
+358020,Calbuco,12252,Confirmed Eruption,,4,,,1893,,1,,7,,Historical Observations,,1894,,1,>,16,,-41.33,-72.618
+358020,Calbuco,12250,Confirmed Eruption,,,,?,1792,,0,,0,,Historical Observations,,,,,,,,-41.33,-72.618
+358020,Calbuco,12249,Confirmed Eruption,,,,,1600,75,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12248,Confirmed Eruption,,,,,1380,50,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,20876,Confirmed Eruption,,4,,,710,60,,,,,Radiocarbon (corrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12247,Confirmed Eruption,,,,,520,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12246,Confirmed Eruption,,,,,220,75,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,20875,Confirmed Eruption,,4,+,,160,135,,,,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,12245,Confirmed Eruption,,,,,40,75,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12244,Confirmed Eruption,,,,,-100,100,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12243,Confirmed Eruption,,,,,-330,200,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12242,Confirmed Eruption,,,,,-1920,50,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12241,Confirmed Eruption,,,,,-4300,150,0,,0,,Radiocarbon (uncorrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,20874,Confirmed Eruption,,4,+,,-5030,180,,,,,Radiocarbon (corrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,12240,Confirmed Eruption,,4,,,-5820,880,0,,0,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,20865,Confirmed Eruption,,,,,-6300,1035,,,,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,12239,Confirmed Eruption,,5,,,-6760,825,0,,0,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,20864,Confirmed Eruption,,4,,,-7550,45,,,,,Radiocarbon (corrected),,,,,,,,-41.33,-72.618
+358020,Calbuco,20863,Confirmed Eruption,,,,,-7930,275,,,,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,20862,Confirmed Eruption,,,,,-7990,290,,,,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,20861,Confirmed Eruption,,,,,-8100,1300,,,,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,20860,Confirmed Eruption,,,,,-8210,290,,,,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,20859,Confirmed Eruption,,,,,-8320,250,,,,,Tephrochronology,,,,,,,,-41.33,-72.618
+358020,Calbuco,20858,Confirmed Eruption,,5,,,-8460,155,,,,,Radiocarbon (corrected),,,,,,,,-41.33,-72.618

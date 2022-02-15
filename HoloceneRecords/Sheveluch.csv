@@ -1,0 +1,103 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+300270,Sheveluch,19594,Confirmed Eruption,,4,?,,1999,,8,,15,,Historical Observations,>,2017,,8,,4,,56.653,161.36
+300270,Sheveluch,19588,Confirmed Eruption,,2,,,1999,,4,,3,,Historical Observations,,1999,,4,,12,,56.653,161.36
+300270,Sheveluch,19587,Confirmed Eruption,,3,,,1998,,5,,30,,Historical Observations,,1998,,9,,3,,56.653,161.36
+300270,Sheveluch,19586,Confirmed Eruption,,2,,,1997,,3,,8,,Historical Observations,,1997,,4,,4,,56.653,161.36
+300270,Sheveluch,19585,Confirmed Eruption,,3,,,1990,,1,,10,,Historical Observations,,1995,,2,,16,15,56.653,161.36
+300270,Sheveluch,19567,Confirmed Eruption,,2,,,1989,,4,,7,,Historical Observations,,1989,,6,,26,,56.653,161.36
+300270,Sheveluch,19584,Confirmed Eruption,,2,?,,1988,,12,,7,,Historical Observations,,1988,,12,,7,,56.653,161.36
+300270,Sheveluch,19583,Confirmed Eruption,,3,,,1986,,3,,28,,Historical Observations,,1988,,2,,28,,56.653,161.36
+300270,Sheveluch,19582,Confirmed Eruption,,2,,,1985,,5,,26,,Historical Observations,,1985,,10,,25,,56.653,161.36
+300270,Sheveluch,19581,Confirmed Eruption,,2,?,,1984,,3,,17,,Historical Observations,,1984,,9,,6,,56.653,161.36
+300270,Sheveluch,19580,Confirmed Eruption,Center of 1964 crater,1,,,1980,,8,,23,,Historical Observations,,1981,,12,,1,30,56.653,161.36
+300270,Sheveluch,19579,Confirmed Eruption,Molodoy Sheveluch summit domes,4,+,,1964,,11,,12,,Historical Observations,,1964,,11,,12,,56.653,161.36
+300270,Sheveluch,19578,Confirmed Eruption,Suelich,2,,,1944,,11,,5,,Historical Observations,,1950,,4,,6,,56.653,161.36
+300270,Sheveluch,19577,Confirmed Eruption,,1,,,1930,,2,,1,30,Historical Observations,,,,,,,,56.653,161.36
+300270,Sheveluch,19576,Confirmed Eruption,,1,,,1928,,1,,27,,Historical Observations,,1929,,4,,15,45,56.653,161.36
+300270,Sheveluch,19575,Confirmed Eruption,,,,,1905,,0,,0,,Historical Observations,,,,,,,,56.653,161.36
+300270,Sheveluch,19574,Confirmed Eruption,,2,,,1897,,0,,0,,Historical Observations,,1898,,0,,0,,56.653,161.36
+300270,Sheveluch,19573,Confirmed Eruption,,3,,,1879,,0,,0,,Historical Observations,,1883,,0,,0,,56.653,161.36
+300270,Sheveluch,19572,Confirmed Eruption,,5,,,1854,,2,,18,,Historical Observations,,,,,,,,56.653,161.36
+300270,Sheveluch,19570,Confirmed Eruption,,3,,,1739,,0,,0,,Historical Observations,,,,,,,,56.653,161.36
+300270,Sheveluch,19566,Confirmed Eruption,,3,,?,1700,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19565,Confirmed Eruption,,5,,,1652,11,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19564,Confirmed Eruption,,3,,?,1550,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19563,Confirmed Eruption,,4,,?,1430,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19562,Confirmed Eruption,,3,,?,1150,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19561,Confirmed Eruption,,5,,,1034,23,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19560,Confirmed Eruption,,3,,?,1020,40,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19559,Confirmed Eruption,,4,,?,970,80,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19558,Confirmed Eruption,,3,,?,750,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19557,Confirmed Eruption,,3,,?,700,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19556,Confirmed Eruption,,5,,,650,40,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19555,Confirmed Eruption,Western flank (Karan),3,,?,630,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19554,Confirmed Eruption,,5,,?,600,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19553,Confirmed Eruption,,4,+,?,580,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19552,Confirmed Eruption,,3,,?,530,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19551,Confirmed Eruption,,4,+,?,500,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19550,Confirmed Eruption,,3,,?,380,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19549,Confirmed Eruption,,4,,?,250,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19548,Confirmed Eruption,,3,,?,230,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19547,Confirmed Eruption,,3,,,170,20,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19546,Confirmed Eruption,,3,,?,120,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19545,Confirmed Eruption,,4,,?,100,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19544,Confirmed Eruption,,3,,?,-10,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19540,Confirmed Eruption,West flank (Karan),3,,?,-150,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19539,Confirmed Eruption,West flank (Karan),4,,?,-300,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19538,Confirmed Eruption,West flank (Karan),3,,?,-400,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19537,Confirmed Eruption,,4,,?,-500,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19536,Confirmed Eruption,,3,,?,-650,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19535,Confirmed Eruption,,4,+,,-780,300,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,17666,Confirmed Eruption,,3,,?,-900,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17665,Confirmed Eruption,,5,,?,-950,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,17664,Confirmed Eruption,,3,,?,-1010,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17663,Confirmed Eruption,,3,,,-1330,200,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,17662,Confirmed Eruption,,3,,?,-1500,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17661,Confirmed Eruption,,3,,?,-1650,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17660,Confirmed Eruption,,4,,?,-1700,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17659,Confirmed Eruption,,5,,?,-2000,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,17658,Confirmed Eruption,,5,,?,-2100,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,17657,Confirmed Eruption,,3,,?,-2150,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17656,Confirmed Eruption,,4,+,?,-2200,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17655,Confirmed Eruption,,3,,?,-2490,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,17654,Confirmed Eruption,,3,,?,-2530,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17653,Confirmed Eruption,,5,,,-2620,300,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,17652,Confirmed Eruption,,3,,?,-2750,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17651,Confirmed Eruption,,3,,?,-2900,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17650,Confirmed Eruption,,3,,?,-3050,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,17649,Confirmed Eruption,,4,+,?,-3200,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19534,Confirmed Eruption,,5,,?,-3500,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19533,Confirmed Eruption,,5,,?,-3650,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19532,Confirmed Eruption,,3,,?,-4250,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19531,Confirmed Eruption,,3,,?,-4350,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19530,Confirmed Eruption,,5,,?,-4400,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19529,Confirmed Eruption,,3,,?,-4530,,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19528,Confirmed Eruption,,3,,?,-4900,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19526,Confirmed Eruption,,3,,?,-5400,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19525,Confirmed Eruption,,5,,?,-5500,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19524,Confirmed Eruption,,3,,?,-6000,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19523,Confirmed Eruption,,3,,?,-6100,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19522,Confirmed Eruption,,3,,?,-6200,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19521,Confirmed Eruption,,4,,?,-6350,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19520,Confirmed Eruption,,4,,?,-6380,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19519,Confirmed Eruption,,4,,,-6400,150,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19518,Confirmed Eruption,,3,,?,-6500,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19517,Confirmed Eruption,,4,,?,-6600,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19516,Confirmed Eruption,,5,?,?,-6800,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19515,Confirmed Eruption,,3,,?,-7000,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19514,Confirmed Eruption,,5,,?,-7150,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19513,Confirmed Eruption,,5,,?,-7300,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19512,Confirmed Eruption,,5,,,-7400,150,0,,0,,Radiocarbon (corrected),,,,,,,,56.653,161.36
+300270,Sheveluch,19511,Confirmed Eruption,,4,+,?,-7500,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19510,Confirmed Eruption,,3,,?,-7550,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19509,Confirmed Eruption,,4,,?,-7600,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19508,Confirmed Eruption,,4,,?,-7630,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19507,Confirmed Eruption,,4,,?,-7700,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19506,Confirmed Eruption,,3,,?,-7750,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19505,Confirmed Eruption,,3,,?,-7850,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19504,Confirmed Eruption,,4,,?,-7950,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19503,Confirmed Eruption,,4,,?,-8100,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19502,Confirmed Eruption,,4,,?,-8200,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19501,Confirmed Eruption,,4,,?,-8350,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19500,Confirmed Eruption,,3,,?,-8450,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36
+300270,Sheveluch,19499,Confirmed Eruption,,3,,?,-8500,,0,,0,,Tephrochronology,,,,,,,,56.653,161.36

@@ -1,0 +1,25 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+282030,Suwanosejima,16947,Confirmed Eruption,O-take,2,,,2004,,10,,23,,Historical Observations,>,2017,,8,,20,,29.638,129.714
+282030,Suwanosejima,16946,Confirmed Eruption,O-take (Upper NE flank),3,?,,2000,,12,,19,,Historical Observations,,2004,,7,?,5,,29.638,129.714
+282030,Suwanosejima,16945,Confirmed Eruption,O-take,2,?,,2000,,2,,24,4,Historical Observations,,2000,,2,,24,4,29.638,129.714
+282030,Suwanosejima,16944,Confirmed Eruption,O-take,1,?,,1999,,6,,15,5,Historical Observations,,1999,,6,,30,4,29.638,129.714
+282030,Suwanosejima,16943,Confirmed Eruption,O-take,1,?,,1999,,1,,5,5,Historical Observations,,1999,,2,,24,4,29.638,129.714
+282030,Suwanosejima,16942,Confirmed Eruption,O-take,1,,,1996,,12,,26,,Historical Observations,,1997,,4,,17,,29.638,129.714
+282030,Suwanosejima,16941,Confirmed Eruption,O-take,2,,,1990,,4,,16,15,Historical Observations,,1996,,7,,14,,29.638,129.714
+282030,Suwanosejima,16940,Confirmed Eruption,O-take,2,,,1988,,1,,16,15,Historical Observations,,1989,,12,,16,15,29.638,129.714
+282030,Suwanosejima,16939,Confirmed Eruption,O-take,2,,,1985,,9,,16,15,Historical Observations,,1987,,6,,16,15,29.638,129.714
+282030,Suwanosejima,16938,Confirmed Eruption,O-take,2,,,1984,,10,,16,15,Historical Observations,,1984,,10,,16,15,29.638,129.714
+282030,Suwanosejima,16937,Confirmed Eruption,Submarine E flank (Suwanose-jima Oki),0,,?,1960,,7,,2,182,Historical Observations,,,,,,,,29.638,129.714
+282030,Suwanosejima,16936,Confirmed Eruption,O-take,2,,,1956,,11,,16,15,Historical Observations,,1984,,5,,16,15,29.638,129.714
+282030,Suwanosejima,16935,Confirmed Eruption,Submarine E flank (Suwanose-jima Oki),0,,?,1954,,7,,2,182,Historical Observations,,,,,,,,29.638,129.714
+282030,Suwanosejima,16934,Confirmed Eruption,O-take,2,,,1949,,10,,0,,Historical Observations,,1954,,7,,2,182,29.638,129.714
+282030,Suwanosejima,16933,Confirmed Eruption,O-take,2,?,,1940,,11,,29,,Historical Observations,,,,,,,,29.638,129.714
+282030,Suwanosejima,16932,Confirmed Eruption,O-take,2,?,,1938,,3,,11,,Historical Observations,,1938,,3,,11,,29.638,129.714
+282030,Suwanosejima,16930,Confirmed Eruption,O-take,2,?,,1925,,5,,13,,Historical Observations,,,,,,,,29.638,129.714
+282030,Suwanosejima,16929,Confirmed Eruption,O-take,2,?,,1921,,12,,8,,Historical Observations,,1922,,1,,26,,29.638,129.714
+282030,Suwanosejima,16926,Confirmed Eruption,O-take,4,,,1889,,10,,2,,Historical Observations,,1889,,10,,13,,29.638,129.714
+282030,Suwanosejima,16925,Confirmed Eruption,O-take,2,?,,1885,,1,,0,,Historical Observations,,1885,,5,,0,,29.638,129.714
+282030,Suwanosejima,16924,Confirmed Eruption,Northeastern summit crater (O-take),1,,,1884,,0,,0,,Historical Observations,,,,,,,,29.638,129.714
+282030,Suwanosejima,16923,Confirmed Eruption,,4,?,,1877,,0,,0,,Historical Observations,,,,,,,,29.638,129.714
+282030,Suwanosejima,16922,Confirmed Eruption,SW ridge fissure and O-take,4,,,1813,,0,,0,,Historical Observations,,1814,,0,,0,,29.638,129.714
+282030,Suwanosejima,16921,Confirmed Eruption,,4,+,?,1600,,0,,0,,Tephrochronology,,,,,,,,29.638,129.714

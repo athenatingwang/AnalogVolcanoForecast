@@ -1,0 +1,27 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+282050,Kuchinoerabujima,21073,Confirmed Eruption,,3,,,2015,,5,,29,,Historical Observations,,2015,,6,,19,,30.443,130.218
+282050,Kuchinoerabujima,20952,Confirmed Eruption,Shin-dake crater,1,,,2014,,8,,3,,Historical Observations,,2014,,8,,3,,30.443,130.218
+282050,Kuchinoerabujima,16979,Confirmed Eruption,NNE-SSW fissure on E side of Shin-take,2,,,1980,,9,,28,,Historical Observations,,1980,,9,,28,,30.443,130.218
+282050,Kuchinoerabujima,16978,Confirmed Eruption,Shin-take,2,,,1976,,4,,2,,Historical Observations,,1976,,4,,2,,30.443,130.218
+282050,Kuchinoerabujima,16977,Confirmed Eruption,Shin-take,1,,,1974,,6,,3,,Historical Observations,,1974,,6,,3,,30.443,130.218
+282050,Kuchinoerabujima,16976,Confirmed Eruption,Shin-take,2,,,1973,,11,,5,,Historical Observations,,1973,,11,,19,,30.443,130.218
+282050,Kuchinoerabujima,16975,Confirmed Eruption,Shin-take,2,,,1972,,9,,2,,Historical Observations,,1972,,9,,2,,30.443,130.218
+282050,Kuchinoerabujima,16974,Confirmed Eruption,Shin-take,3,,,1968,,12,,21,,Historical Observations,,1969,,3,,10,,30.443,130.218
+282050,Kuchinoerabujima,16973,Confirmed Eruption,Shin-take,2,,,1966,,11,,22,,Historical Observations,,1966,,11,,22,,30.443,130.218
+282050,Kuchinoerabujima,16972,Confirmed Eruption,NNE-SSW fissure on E side of Shin-take,2,,,1945,,11,,3,,Historical Observations,,1945,,11,,3,,30.443,130.218
+282050,Kuchinoerabujima,16971,Confirmed Eruption,Shin-take,4,?,,1933,,12,,23,,Historical Observations,,1934,,1,,12,,30.443,130.218
+282050,Kuchinoerabujima,16969,Confirmed Eruption,SW flank of Shin-take,3,?,,1931,,4,,2,,Historical Observations,,1931,,6,,22,,30.443,130.218
+282050,Kuchinoerabujima,16968,Confirmed Eruption,Shin-dake,2,?,,1914,,1,,5,,Historical Observations,,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16966,Confirmed Eruption,Shin-take,2,,,1841,,5,,23,,Historical Observations,,1841,,8,,1,,30.443,130.218
+282050,Kuchinoerabujima,16965,Confirmed Eruption,Shin-take,2,?,<,1840,,0,,0,,Historical Observations,,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16964,Confirmed Eruption,Furu-take,,,,1560,100,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16963,Confirmed Eruption,Furu-take,,,,1470,50,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16962,Confirmed Eruption,Shin-take,,,,1440,50,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16961,Confirmed Eruption,Furu-take,,,,1110,75,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16960,Confirmed Eruption,Shin-take,,,,1100,100,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16959,Confirmed Eruption,Furu-take,,,,970,75,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16958,Confirmed Eruption,Shin-take,,,,600,75,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16957,Confirmed Eruption,Furu-take,,,,-1140,150,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16956,Confirmed Eruption,Shin-take,,,,-1450,75,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16955,Confirmed Eruption,Furu-take,,,,-3480,150,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
+282050,Kuchinoerabujima,16954,Confirmed Eruption,Furu-take,,,,-9520,300,0,,0,,Radiocarbon (corrected),,,,,,,,30.443,130.218
