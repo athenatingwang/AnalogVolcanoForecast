@@ -15,3 +15,12 @@ This file contains the JAGS "model" for model M2 in equation (3) in the paper Wa
 
 ### GVPmod3WeibsepZuse.jags
 This file contains the JAGS "model" for model M3 in equation (4) in the paper Wang et al. (2022).
+
+### ReadGVPdata.R
+This file reads all the data files for the empirical analogues saved in the folder "HoloceneRecords". These data files are obtained from the Smithsonian Institution's GVP catalogue.
+
+## Fitting models M1, M2, and M3 to the empirical analogues 
+#### Run the R code in "ReadGVPdata.R" to read all the GVP data first
+
+
+## Using eruption records with minimum VEI 3
