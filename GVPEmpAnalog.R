@@ -2,11 +2,30 @@ source("ReadGVPdata.R")
 
 ## Using eruption records with minimum VEI 3
 
-aname <- c("Tongariro","Asamayama","Avachinsky","Azumayama","Bezymianny",
-"Calbuco","Chokaisan","Colima","Fujisan","Gamalama","Guagua Pichincha",
-"Kuchinoerabujima","Miyakejima","Nevado del Ruiz","Pico de Orizaba",
-"Popocatepetl","Puyehue-Cordon Caulle","Sheveluch","Suwanosejima",
-"Tokachidake","Tolbachik","Tungurahua","Villarrica")
+aname <- c(
+"Tongariro",
+"Asamayama",             
+"Avachinsky",           
+"Azumayama",                            
+"Bezymianny",
+"Calbuco",              
+"Chokaisan",             
+"Colima",               
+"Fujisan",               
+"Gamalama",             
+"Guagua Pichincha",      
+"Kuchinoerabujima",                  
+"Miyakejima",            
+"Nevado del Ruiz",        
+"Pico de Orizaba",         
+"Popocatepetl",         
+"Puyehue-Cordon Caulle",  
+"Sheveluch",            
+"Suwanosejima",          
+"Tokachidake",          
+"Tolbachik",             
+"Tungurahua",            
+"Villarrica")  
 
 Nind <- c(21,1:20,22:23)
 
