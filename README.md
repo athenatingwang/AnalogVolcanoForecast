@@ -23,3 +23,8 @@ This file reads all the data files for the empirical analogues saved in the fold
 ### GVPEmpAnalog.R
 ##### Make sure to save all .R and .jags files and the two data folders "HoloceneRecords" and "QuaternaryRecords" in the same main folder.
 Run the file GVPEmpAnalog.R, and the MCMC samples of the posterior distributions will be saved in .image files.
+
+## Fitting models M1, M2, and M3 to the statistical analogues 
+### GVPStatsAnalog.R
+##### Make sure to save all .R and .jags files and the two data folders "HoloceneRecords" and "QuaternaryRecords" in the same main folder.
+Run the file GVPStatsAnalog.R, and the MCMC samples of the posterior distributions will be saved in .image files.
