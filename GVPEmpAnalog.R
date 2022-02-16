@@ -92,7 +92,7 @@ params <- c("alpha", "beta", "sigmaZ", "Z","xi[6]")
 
 m1 = jags(data=data1, inits = vinits, parameters.to.save=params, n.chains = 3,
           n.iter = 110000,n.burnin=10000,n.thin=20,
-          model.file="GVPmod1WeibsepZuse.jags")
+          model.file="ModelM1Weib.jags")
 
 m1.mcmc <- as.mcmc(m1)
 m1gvpemp.mcmc <- m1.mcmc
@@ -159,7 +159,7 @@ params <- c("alpha", "beta", "sigmaZ", "Z","xi[6]")
 
 m2 = jags(data=data1, inits = vinits, parameters.to.save=params, n.chains = 3,
           n.iter = 110000,n.burnin=10000,n.thin=20,
-          model.file="GVPmod2WeibsepZuse.jags")
+          model.file="ModelM2Weib.jags")
 
 m2.mcmc <- as.mcmc(m2)
 m2gvpemp.mcmc <- m2.mcmc
@@ -227,7 +227,7 @@ params <- c("alpha", "beta", "sigmaY", "Y", "sigmaZ", "Z","xi[6]")
 
 m3 = jags(data=data1, inits = vinits, parameters.to.save=params, n.chains = 3,
           n.iter = 110000,n.burnin=10000,n.thin=20,
-          model.file="GVPmod3WeibsepZuse.jags")
+          model.file="ModelM3Weib.jags")
 
 m3.mcmc <- as.mcmc(m3)
 m3gvpemp.mcmc <- m3.mcmc
