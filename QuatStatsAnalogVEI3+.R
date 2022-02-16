@@ -1,74 +1,13 @@
-## Highest posterior density (HPD) credible interval
-# 95% and 50%
-library("MCMCvis")
-# Model 1
-MCMCsummary(m1.mcmc,HPD=TRUE,hpd_prob=0.25,round=3)
-            mean     sd 50%_HPDL 25%_HPDU Rhat  n.eff
-xi[14]     3.959  9.399    0.220    0.550 1.00 150000
-MCMCsummary(m1.mcmc,HPD=TRUE,hpd_prob=0.5,round=3)
-            mean     sd 50%_HPDL 50%_HPDU Rhat  n.eff
-xi[14]     3.959  9.399    0.220    1.323 1.00 150000
-MCMCsummary(m1.mcmc,HPD=TRUE,hpd_prob=0.95,round=3)
-            mean     sd 95%_HPDL 95%_HPDU Rhat  n.eff
-xi[14]     3.959  9.399    0.220   15.540 1.00 150000
-
-forex.m1 <- 1000*scan()
-0.220    0.550  0.220    1.323 0.220   15.540
-
-forex.m1+1798
-[1]  2018  2348  2018  3121  2018 17338
-
-
-# Model 2
-MCMCsummary(m2.mcmc,HPD=TRUE,hpd_prob=0.25,round=3)
-            mean     sd 25%_HPDL 25%_HPDU Rhat  n.eff
-xi[14]    11.931 46.802    0.220    0.787 1.00 142194
-MCMCsummary(m2.mcmc,HPD=TRUE,hpd_prob=0.5,round=3)
-            mean     sd 50%_HPDL 50%_HPDU Rhat  n.eff
-xi[14]    11.931 46.802    0.220    2.450 1.00 142194
-MCMCsummary(m2.mcmc,HPD=TRUE,hpd_prob=0.95,round=3)
-            mean     sd 95%_HPDL 95%_HPDU Rhat  n.eff
-xi[14]    11.931 46.802    0.220   46.775 1.00 142194
-
-forex.m2 <- 1000*scan()
-0.220    0.787  0.220    2.450  0.220   46.775
-
-forex.m2+1798
-[1]  2018  2585  2018  4248  2018 48573
-
-
-# Model 3
-MCMCsummary(m3.mcmc,HPD=TRUE,hpd_prob=0.25,round=3)
-            mean     sd 25%_HPDL 25%_HPDU Rhat  n.eff
-xi[14]     7.543 225.587    0.220    0.575 1.13 150000
-MCMCsummary(m3.mcmc,HPD=TRUE,hpd_prob=0.5,round=3)
-            mean     sd 50%_HPDL 50%_HPDU Rhat  n.eff
-xi[14]     7.543 225.587    0.220    1.459 1.13 150000
-MCMCsummary(m3.mcmc,HPD=TRUE,hpd_prob=0.95,round=3)
-            mean     sd 95%_HPDL 95%_HPDU Rhat  n.eff
-xi[14]     7.543 225.587    0.220   23.423 1.13 150000
-
-forex.m3 <- 1000*scan()
-0.220    0.575  0.220    1.459  0.220   23.423
-
-forex.m3+1798
-[1]  2018  2373  2018  3257  2018 25221
-
-
-
-
 ## VEI 3+
-tgr3 <- read.csv("AnaloguesFromMark/Tongariro.csv",header=TRUE)
+tgr3 <- read.csv("/Tongariro.csv",header=TRUE)
 tgr3$VEI[is.na(tgr3$VEI)] <- 4.5
 tgr <- tgr3[tgr3$VEI>=2.99,]
 ths3 <- read.csv("AnaloguesFromMark/ThreeSisters.csv",header=TRUE)
 ths3$VEI[is.na(ths3$VEI)] <- 4.5
 ths <- ths3[ths3$VEI>=2.99,]
-#ths <- ths[-(1:13),]
 pey3  <- read.csv("AnaloguesFromMark/Puyehue-CordonCaulle.csv",header=TRUE)
 pey3$VEI[is.na(pey3$VEI)] <- 4.5
 pey <- pey3[pey3$VEI>=2.99,]
-#pey <- pey[-(1:20),]
 
 
 tgrIE <- -diff(tgr$AgeyrBP)/1000
