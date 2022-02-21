@@ -47,6 +47,10 @@ Run the file GVP-TgrOnly-VEI3+.R, and the MCMC samples of the posterior distribu
 Run the file Quat-TgrOnly-VEI3+.R, and the MCMC samples of the posterior distributions will be saved in .image files. It also provides forecasts from using Quaternary record only from Tongariro volcano.
 
 
+## Plotting the VEI, posterior distributions, and forecasts used in the paper 
+### GRLplots.R
+All the results files used in this code are saved in the Results folder.
+
 
 
 
