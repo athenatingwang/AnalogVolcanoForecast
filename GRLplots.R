@@ -113,18 +113,18 @@ source("line2user.R")
 
 
 # model 1
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm1-1010000i10000b.image"))
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm1mc-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm1-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm1mc-1010000i10000b.image"))
 m1lv3.mcmc <- m1.mcmc
 
 # model 2
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm2-1010000i10000b.image"))
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm2mc-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm2-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm2mc-1010000i10000b.image"))
 m2lv3.mcmc <- m2.mcmc
 
 # model 3
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm3-1010000i10000b.image"))
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm3mc-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm3-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI3+/TgriroLongRecV3Weibm3mc-1010000i10000b.image"))
 m3lv3.mcmc <- m3.mcmc
 
 ## Probability that a VEI3+ eruption in the next 50 years
@@ -144,18 +144,18 @@ MCMCsummary(m3lv3.mcmc,
 #######################################
 
 # model 1
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm1-1010000i10000b.image"))
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm1mc-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm1-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm1mc-1010000i10000b.image"))
 m1lv4.mcmc <- m1.mcmc
 
 # model 2
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm2-1010000i10000b.image"))
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm2mc-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm2-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm2mc-1010000i10000b.image"))
 m2lv4.mcmc <- m2.mcmc
 
 # model 3
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm3-1010000i10000b.image"))
-get(load("Results/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm3mc-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm3-1010000i10000b.image"))
+get(load("ResultsGRL/LongRecWeibsepZuse.jags-Final-VEI4+/TgriroLongRecWeibm3mc-1010000i10000b.image"))
 m3lv4.mcmc <- m3.mcmc
 
 ## Probability that a VEI4+ eruption in the next 50 years
@@ -175,18 +175,18 @@ MCMCsummary(m3lv4.mcmc,
 #######################################
 
 # model 1
-get(load("Results/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m1-110000i10000b.image"))
-get(load("Results/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m1mc-110000i10000b.image"))
+get(load("ResultsGRL/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m1-110000i10000b.image"))
+get(load("ResultsGRL/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m1mc-110000i10000b.image"))
 m1gvpemp.mcmc <- m1.mcmc
 
 # model 2		
-get(load("Results/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m2-110000i10000b.image"))
-get(load("Results/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m2mc-110000i10000b.image"))
+get(load("ResultsGRL/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m2-110000i10000b.image"))
+get(load("ResultsGRL/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m2mc-110000i10000b.image"))
 m2gvpemp.mcmc <- m2.mcmc
 
 # model 3
-get(load("Results/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m3-110000i10000b.image"))
-get(load("Results/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m3mc-110000i10000b.image"))
+get(load("ResultsGRL/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m3-110000i10000b.image"))
+get(load("ResultsGRL/GVPM0-M3-EmpAnalogV3/TgriroGVPEmpV3m3mc-110000i10000b.image"))
 m3gvpemp.mcmc <- m3.mcmc
 
 
@@ -195,18 +195,18 @@ m3gvpemp.mcmc <- m3.mcmc
 #######################################
 
 # model 1
-get(load("Results/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m1-110000i10000b.image"))
-get(load("Results/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m1mc-110000i10000b.image"))
+get(load("ResultsGRL/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m1-110000i10000b.image"))
+get(load("ResultsGRL/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m1mc-110000i10000b.image"))
 m1gvpstat.mcmc <- m1.mcmc
 
 # model 2		
-get(load("Results/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m2-110000i10000b.image"))
-get(load("Results/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m2mc-110000i10000b.image"))
+get(load("ResultsGRL/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m2-110000i10000b.image"))
+get(load("ResultsGRL/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m2mc-110000i10000b.image"))
 m2gvpstat.mcmc <- m2.mcmc
 
 # model 3
-get(load("Results/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m3-110000i10000b.image"))
-get(load("Results/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m3mc-110000i10000b.image"))
+get(load("ResultsGRL/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m3-110000i10000b.image"))
+get(load("ResultsGRL/GVPM1-M3-StatsAnalogV3/TgriroGVPStatsV3m3mc-110000i10000b.image"))
 m3gvpstat.mcmc <- m3.mcmc
 
 ## Probability that a VEI3+ eruption in the next 50 years
