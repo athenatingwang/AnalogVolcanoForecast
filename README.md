@@ -1,6 +1,6 @@
 # AnalogVolcanoForecast
 
-The computational code and data are for the paper: Wang, T., Bebbington, M., Cronin, S., and Carman, J. (2022) Forecasting eruptions at poorly known volcanoes using analogues and multivariate renewal processes, under review.
+The computational code and data are for the paper: Wang, T., Bebbington, M., Cronin, S., & Carman, J. (2022). Forecasting eruptions at poorly known volcanoes using analogs and multivariate renewal processes. Geophysical Research Letters, 49, e2021GL096715. https://doi.org/10.1029/2021GL096715.
 
 All .R and .jags files can be downloaded and saved in the same folder. Instructions are given if they depend on code in other sections, in which case one simply needs to run the R code in that section first.
 
